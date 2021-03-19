@@ -1,0 +1,35 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    background-color:firebrick !important;
+}
+h1
+{
+    color: aliceblue !important;
+}
+.btn-primary
+{
+    background-color: slateblue !important;
+    color: white;
+}
+.form-control
+{
+    height: 70px !important;
+    border: 3px solid black !important;
+    background-color: darkblue !important;
+    color: whitesmoke !important;
+}
+.btn-primary
+{
+    height: 70px !important;
+}
+.btn-secondary
+{
+    float: left;
+    width: 25% !important;
+    height: 80px !important;
+    border: 2px solid black !important;
+    background-color: cadetblue !important;
+    font-size: 19px !important;
+}
